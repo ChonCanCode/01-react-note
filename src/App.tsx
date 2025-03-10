@@ -1,4 +1,5 @@
 import NoteList from "./components/NotesList";
+import './index.css';
 
 function App() {
   return (
