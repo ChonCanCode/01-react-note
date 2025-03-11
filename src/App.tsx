@@ -1,14 +1,7 @@
-import NoteList from "./components/NotesList";
-import './index.css';
+import "./index.css"
 
 function App() {
-  return (
-    <>
-      <div className="container">
-        <NoteList />
-      </div>
-    </>
-  )
+  return <h1>Hello World!</h1>
 }
 
-export default App
+export default App;
