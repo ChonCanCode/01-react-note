@@ -1,6 +1,6 @@
 import { Container } from "react-bootstrap";
 import { Routes, Route, Navigate } from "react-router-dom";
-import { NewNote } from "./NewNote"
+import { NewNote } from "./NewNote";
 import "./index.css";
 
 function App() {
