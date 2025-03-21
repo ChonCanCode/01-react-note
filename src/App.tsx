@@ -5,7 +5,7 @@ import "./index.css";
 
 function App() {
   return (
-  <Container>
+    <Container>
       <Routes>
         <Route path="/" element={<h1>Home</h1>} />
         <Route path="/new" element={<NewNote />} />
